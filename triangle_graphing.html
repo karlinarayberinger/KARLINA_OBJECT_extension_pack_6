@@ -1,0 +1,81 @@
+<!--
+/**
+ * file: triangle_graphing.html
+ * type: Hyper-Text-Markup-Language
+ * author: karbytes
+ * date: 10_JULY_2023
+ * license: PUBLIC_DOMAIN
+ */
+ -->
+  <!DOCTYPE html>
+ <html>
+ <head>
+    <meta charset="UTF-8">
+    <title>TRIANGLE_GRAPHING</title>
+    <link rel="stylesheet" href="karbytes_aesthetic.css">
+    <script src="triangle_graphing.js"></script>
+    <style>
+       div {
+            border-color: #ff00ff;
+            border-width: 2px;
+            border-style: solid;
+            padding: 10px;
+            margin: 10px;
+            border-radius: 5px;
+       }
+    </style>
+ </head>
+ <body onload="initialize_application()">
+   <div>
+      <h1>TRIANGLE_GRAPHING</h1>
+      <p>Select integer values for three unique coordinate pairs which will be used to construct a triangle on a Cartesian grid.</p>
+   </div>
+   <!-- input field # 1 of 7 -->
+   <div>
+      <p>STEP_0: Select a horizontal position (i.e. x-axis value) for point A from the list below.</p>
+      <p id="a_x_menu_container" class="console">#a_x_menu_container</p>
+   </div>
+   <!-- input field # 2 of 7 -->
+   <div>
+      <p>STEP_1: Select a vertical position (i.e. y-axis value) for point A from the list below.</p>
+      <p id="a_y_menu_container" class="console">#a_y_menu_container</p>
+   </div>
+   <!-- input field # 3 of 7 -->
+   <div>
+      <p>STEP_2: Select a horizontal position (i.e. x-axis value) for point B from the list below.</p>
+      <p id="b_x_menu_container" class="console">#b_x_menu_container</p>
+   </div>
+   <!-- input field # 4 of 7 -->
+   <div>
+      <p>STEP_3: Select a vertical position (i.e. y-axis value) for point B from the list below.</p>
+      <p id="b_y_menu_container" class="console">#b_y_menu_container</p>
+   </div>
+   <!-- input field # 5 of 7 -->
+   <div>
+      <p>STEP_4: Select a horizontal position (i.e. x-axis value) for point C from the list below.</p>
+      <p id="c_x_menu_container" class="console">#c_x_menu_container</p>
+   </div>
+   <!-- input field # 6 of 7 -->
+   <div>
+      <p>STEP_5: Select a vertical position (i.e. y-axis value) for point C from the list below.</p>
+      <p id="c_y_menu_container" class="console">#c_y_menu_container</p>
+   </div>
+   <!-- input field # 7 of 7 -->
+   <div>
+      <p>STEP_6: Click the GENERATE button to validate the point values and to construct their respective triangle.</p>
+      <p id="generate_button_container" class="console">#generate_button_container</p>
+   </div>
+   <!-- output field # 1 of 3 -->
+   <div id="canvas_container">
+      <p>#canvas_container</p>
+   </div>
+   <!-- output field # 2 of 3 -->
+   <div id="output">
+      <p>#output</p>
+   </div> 
+   <!-- output field # 3 of 3 -->
+   <div id="events_log" class="console" >
+      <p>#events_log</p>
+   </div> 
+ </body>
+ </html>
