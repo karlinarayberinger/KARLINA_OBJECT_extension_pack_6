@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_17_january_2024.txt
+ * type: plain-text
+ * date: 17_JANUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 In order for a human individual to survive in the current configuration of human civilization on Planet Earth in the year 2024, that human individual must convince enough of "the right people" that the respective human individual is sufficiently useful to human civilization's continued survival and thrival.
 
