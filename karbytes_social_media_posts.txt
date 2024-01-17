@@ -1,7 +1,7 @@
 /**
  * file: karbytes_social_media_posts.txt
  * type: plain-text
- * date: 15_JANUARY_2024
+ * date: 17_JANUARY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -248,3 +248,9 @@ video_title: J Reality, Evolution, Consciousness | Donald Hoffman Λ Philip Goff
 video_source: Theories of Everything with Curt Jaimungal
 
 video_date: 19_DECEMBER_2023
+
+* * *
+
+On 17_JANUARY_2024 at approximately 1:00PM Pacific Standard Time, karbytes shared the following karbytes-created web page as a social media post on karbytes' Twitter dot Com page, on karbytes' Minds dot Com page, on karbytes' LinkedIn dot Com page, and on karbytes' Patreon dot Com page:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_17_january_2024/
