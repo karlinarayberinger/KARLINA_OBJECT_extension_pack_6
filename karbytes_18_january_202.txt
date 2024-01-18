@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_18_january_2024.txt
+ * type: plain-text
+ * date: 18_JANUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 1. Updated USB flash drive with most up to date karbytes content (prior to 18_JANUARY_2024).
 
