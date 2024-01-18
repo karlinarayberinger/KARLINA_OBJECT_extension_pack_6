@@ -6,6 +6,8 @@
  * license: PUBLIC_DOMAIN
  */
 
+Edit: In Step 5 below, karbytes opted to hang the M_DISCs in their respective container sleeves on the wall of karbytes' room instead of inside of an opaque container.
+
 1. Updated USB flash drive with most up to date karbytes content (prior to 18_JANUARY_2024).
 
 2. Copied those files onto small Windows 10 laptop (because the disc burner does not seem to work for disc writing functions on larger Kbuntu laptop).
