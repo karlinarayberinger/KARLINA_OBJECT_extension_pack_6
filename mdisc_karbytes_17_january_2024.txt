@@ -144,7 +144,7 @@ M_DISC_1 // (contains 2.5 gigabytes of "read only" data (on a 4.7GB-capacity dis
 
 ---
 
-root_folder_level: // 0 folders, 37 files. (root_folder_name: mdisc_karbytes_17_january_2024_disc_1).
+root_folder_level: // 0 folders, 36 files. (root_folder_name: mdisc_karbytes_17_january_2024_disc_1).
 
 	- KARBYTES_JOURNAL_2023_PART_20-main.zip
 
