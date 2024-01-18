@@ -1,0 +1,11 @@
+t
+
+1. Updated USB flash drive with most up to date karbytes content (prior to 18_JANUARY_2024).
+
+2. Copied those files onto small Windows 10 laptop (because the disc burner does not seem to work for disc writing functions on larger Kbuntu laptop).
+
+3. Burned the files which were copied from flash drive to Windows laptop onto two M_DISCs (and placed each finalized disc into its original container and then placed a hand-written label on the outside of the container (i.e. either displaying the message "KARBYTES 17_JANUARY_2024 disc 0 https://karlinaobject.wordpress.com" or else the message "KARBYTES 17_JANUARY_2024 disc 1 https://karlinaobject.wordpress.com") and then inside of a clear plastic page protector.
+
+4. Tested each of the two M_DISCs using the Linux laptop and the USB disc drive which was used to burn those discs.
+
+5. Placed discs (after returning to their aforementioned labeled packaging) in a storage bin inside of karbytes' room at legal residence (for no fee) or in a public storage unit (for approximately $60 per month).
