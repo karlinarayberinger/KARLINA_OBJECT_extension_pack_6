@@ -1,0 +1,219 @@
+/**
+ * file: mdisc_karbytes_17_january_2024.txt
+ * type: plain-text
+ * date: 17_JANUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+This plain-text file describes the contents of a set of two M_DISC compact discs which karbytes intends to have burned no later than 11:59PM Pacific Standard Time on 18_JANUARY_2024.
+
+The aforementioned set of two M_DISCs contains all of the digital files which constitute the public karbytes-created website named Karlina Object dot WordPress dot Com (which is karbytes' "primary website") as that website is at the aforementioned "point" in time.
+
+The aforementioned set of two M_DISCs contains all of the digital files which constitute the public karbytes-created website named Karbytes For Life Blog dot WordPress dot Com (which is karbytes' "secondary website") as that website is at the aforementioned "point" in time.
+
+The aforementioned set of two M_DISCs each contain exactly one folder (named either mdisc_karbytes_17_january_2024_disc_0 or else mdisc_karbytes_17_january_2024_disc_1) which contains exclusively zip files which each contain all the files of a particular karbytes-created GitHub repository (under the GitHub username @karlinarayberinger).
+
+---
+
+For more information on what the aforementioned set of two M_DISCs contains, visit the public karbytes-created web pages at the following two uniform resource locators:
+
+https://karbytesforlifeblog.wordpress.com/karbytes_usb_flashdrive_folder_hierarchy_11_january_2024/
+
+https://karbytesforlifeblog.wordpress.com/karbytes_15_january_2024/
+
+---
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+---
+
+mdisc_karbytes_17_january_2024 
+
+---
+
+M_DISC_0 // (contains 2.7 gigabytes of "read only" data (on a 4.7GB-capacity disc)).
+
+---
+
+root_folder_level: // 0 folders, 43 files. (root_folder_name: mdisc_karbytes_17_january_2024_disc_0).
+
+	- karbytes_basement_0-main.zip // (contents of 1 of 3 private repositories (may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com))).
+
+	- karbytes_basement_1-main.zip // (contents of 2 of 3 private repositories (may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com))).
+
+	- karbytes_basement_2-main.zip // (contents of 3 of 3 private repositories (may contain some public karbytes content in the form of "unlisted web page" source code and associated media files (for the website named Karbytes For Life Blog dot WordPress dot Com))).
+
+	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES_ANEW-main.zip
+
+	- INSTAGRAM_SCREENSHOTS_2022_KARBYTES-main.zip
+
+	- karbytes_23AndMe_Ancestry_Data-main.zip
+
+	- KARBYTES_BRAND_IMAGES_2021-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_0-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_1-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_2-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_3-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_4-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_5-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_6-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_7-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_8-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_9-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_10-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_11-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_12-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_13-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_14-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_15-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_16-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_16B-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_16C-main.zip
+
+	- KARBYTES_JOURNAL_2022_PART_16D-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_0-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_1-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_2-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_3-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_4-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_5-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_6-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_7-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_8-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_9-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_10-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_11-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_12-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_13-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_14-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_15-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_16-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_17-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_18-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_19-main.zip
+
+---
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+---
+
+M_DISC_1 // (contains 2.5 gigabytes of "read only" data (on a 4.7GB-capacity disc)).
+
+---
+
+root_folder_level: // 0 folders, 37 files. (root_folder_name: mdisc_karbytes_17_january_2024_disc_1).
+
+	- KARBYTES_JOURNAL_2023_PART_20-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_21-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_22-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_23-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_24-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_25-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_26-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_27-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_28-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_29-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_30-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_31-main.zip
+
+	- KARBYTES_JOURNAL_2023_PART_32-main.zip
+
+	- KARLINA_OBJECT_12_JUNE_2023-main.zip
+
+	- KARLINA_OBJECT_autumn_2023_starter_pack-main.zip
+
+	- KARLINA_OBJECT_extension_pack_0-main.zip
+
+	- KARLINA_OBJECT_extension_pack_1-main.zip
+
+	- KARLINA_OBJECT_extension_pack_2-main.zip
+
+	- KARLINA_OBJECT_extension_pack_3-main.zip
+
+	- KARLINA_OBJECT_extension_pack_4-main.zip
+
+	- KARLINA_OBJECT_extension_pack_5-main.zip
+
+	- KARLINA_OBJECT_summer_2023_starter_pack-main.zip
+
+	- KARLINA_OBJECT_winter_2023_starter_pack-main.zip
+
+	- MINDS_2020_SCREENSHOTS-main.zip
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_0-main.zip
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_1-main.zip
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_2-main.zip
+
+	- MINDS_SCREENSHOTS_FIRST_TWO_YEARS_PART_3-main.zip
+
+	- PRIMARY_WEBSITE_COPY_10_SEPTEMBER_2022-main.zip
+
+	- PRIMARY_WEBSITE_COPY_15_NOVEMBER_2022-main.zip
+
+	- PRIMARY_WEBSITE_COPY_23_OCTOBER_2022-main.zip
+
+	- RAW_GITHUB_FILES_MACRO_DIRECTORY_first_75_micro_directories-main.zip
+
+---
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
+
+END_OF_FILE
+
+////////////////////////////////////////////////////////////////////////////////////////////////////////////////////
