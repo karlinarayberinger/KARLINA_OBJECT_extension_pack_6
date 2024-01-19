@@ -12,6 +12,8 @@ Pathos is what is said to imbue a particular person's argumentation with increas
 
 Logos is what is said to imbue a particular person's argumentation with increased credibility (within the context of some population serving as the audience to that particular person's argumentations) due to that particular person's argumentation presenting sufficient empirical and logical evidence in order to convince the audience that the propositions being argued are sufficiently likely to be true. (The relatively old Latin word "logos" is etymologically similar to the relatively new English word "logic").
 
+karbytes argues that all appeals to ethos and all appeals to pathos are reducible to being merely appeals to logos (based on the assumption that all subjective experiences are fundamentally reducible to computational logic (due to the fact that all observed phenoma take place inside of relatively virtual universes which are substantied by relatively physical information processing hardware)).
+
 * * *
 
 ethics 
