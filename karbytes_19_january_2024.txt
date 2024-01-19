@@ -1,4 +1,10 @@
-t
+/**
+ * file: karbytes_19_january_2024.txt
+ * type: plain-text
+ * date: 19_JANUARY_2024
+ * author: karbytes
+ * license: PUBLIC_DOMAIN
+ */
 
 ethics 
 
