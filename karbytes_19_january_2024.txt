@@ -6,6 +6,10 @@
  * license: PUBLIC_DOMAIN
  */
 
+Ethos is what is said to imbue a particular person's argumentation with increased credibility (within the context of some population serving as the audience to that particular person's argumentations) due to that particular person having been recognized (by the audience population) as contributing beneficially to society through that person's own voluntary efforts. (The relatively old Latin word "ethos" is etymologically similar to the relatively new English word "ethics").
+
+* * *
+
 ethics 
 
 logos (and pathos and ethos) but ultimately it is all logos
