@@ -10,6 +10,8 @@ Ethos is what is said to imbue a particular person's argumentation with increase
 
 Pathos is what is said to imbue a particular person's argumentation with increased credibility (within the context of some population serving as the audience to that particular person's argumentations) due to that particular person's argumentation invoking compelling emotions in the audience which make the audience want to sympathize with the person making those arguments. (The relatively old Latin word "pathos" is etymologically similar to the relatively new English word "patheticness").
 
+Logos is what is said to imbue a particular person's argumentation with increased credibility (within the context of some population serving as the audience to that particular person's argumentations) due to that particular person's argumentation presenting sufficient empirical and logical evidence in order to convince the audience that the propositions being argued are sufficiently likely to be true. (The relatively old Latin word "logos" is etymologically similar to the relatively new English word "logic").
+
 * * *
 
 ethics 
