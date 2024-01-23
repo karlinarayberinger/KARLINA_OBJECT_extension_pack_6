@@ -1,7 +1,7 @@
 /**
  * file: karbytes_testosterone_updates.txt
  * type: plain-text
- * date: 09_JANUARY_2024
+ * date: 23_JANUARY_2024
  * author: karbytes
  * license: PUBLIC_DOMAIN 
  */
@@ -15,3 +15,5 @@ On 12_DECEMBER_2023 at approximately 8:40AM Pacific Standard Time, karbytes inje
 On 26_DECEMBER_2023 at approximately 9:10AM Pacific Standard Time, karbytes injected 0.8 milliliters of testosterone cypionate (from a 200mg/mL vial) into its right thigh muscle (using an 18 gauge needle attached to a syringe).
 
 On 09_JANUARY_2024 at approximately 7:30AM Pacific Standard Time, karbytes injected 0.8 milliliters of testosterone cypionate (from a 200mg/mL vial) into its left thigh muscle (using an 18 gauge needle attached to a syringe).
+
+On 23_JANUARY_2024 at approximately 12:55AM Pacific Standard Time, karbytes injected 0.8 milliliters of testosterone cypionate (from a 200mg/mL vial) into its right thigh muscle (using an 18 gauge needle attached to a syringe).
